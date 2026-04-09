@@ -1,0 +1,6 @@
+@BlockIpAPI_HostAddress = http://localhost:5215
+
+GET {{BlockIpAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
